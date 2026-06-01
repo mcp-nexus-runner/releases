@@ -1,0 +1,10 @@
+# This repository hosts release binaries only - no source code.
+# Binaries are attached as GitHub Release assets, not committed to the tree.
+
+*.exe
+*.zip
+*.blockmap
+win-unpacked/
+node_modules/
+.DS_Store
+Thumbs.db
